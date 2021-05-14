@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hello fneglong! hello git!  111222
 hello fneglong! hello git!  333444
+=======
+hello fneglong! hello git! 999888
+hello fneglong! hello git! 777666
+>>>>>>> hot-fix
+
+============master
