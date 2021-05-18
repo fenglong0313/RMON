@@ -6,4 +6,6 @@ hello fneglong! hello git! 999888
 hello fneglong! hello git! 777666
 >>>>>>> hot-fix
 
-============master
+============master  
+
+********************************************update
